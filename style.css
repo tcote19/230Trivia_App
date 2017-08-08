@@ -43,6 +43,7 @@
 }
 #topics-card {
 	border: 1px solid black;
+	margin-bottom: 30px;
 }
 #card-image{
 	width: auto;
@@ -52,7 +53,8 @@
 	text-align: center;
 }
 .card-text {
-	text-align: center;
+	text-align: left;
+	padding: 5px 5px;
 }
 #card-button {
 	margin-bottom: 5px;
